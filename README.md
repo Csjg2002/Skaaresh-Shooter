@@ -7,6 +7,7 @@ The year is 2359. Earth is a distant memoty. Colonies were dispatched to the far
 
 <h2>In-game Clips:</h2>
 
+<p align="center">
 <img src="https://github.com/Csjg2002/Skaaresh-Shooter/assets/131481041/88ab1825-cbe5-4c6d-95aa-08fb32f1baac" height="80%" width="80%" alt="Skaaresh Shooter"/>
 <br />
 <br />
