@@ -7,14 +7,7 @@
 
 <h2>In-game Clips:</h2>
 
-<p align="center">
-<img src="https://imgpile.com/images/9BWKhF.png" height="80%" width="80%" alt="Skaaresh Shooter"/>
-<br />
-<br />
-<img src="https://imgpile.com/images/9BWMzi.png" height="80%" width="80%" alt="Skaaresh Shooter"/>
-<br />
-<br />
-<img src="https://github.com/Csjg2002/Aathma/assets/131481041/5fdbc260-3b79-4806-8f6a-e74ddfa82fcf" height="80%" width="80%" alt="Skaaresh Shooter"/>
+<img src="https://github.com/Csjg2002/Skaaresh-Shooter/assets/131481041/88ab1825-cbe5-4c6d-95aa-08fb32f1baac" height="80%" width="80%" alt="Skaaresh Shooter"/>
 <br />
 <br />
 <img src="https://github.com/Csjg2002/Aathma/assets/131481041/3af015c6-1c95-48c4-a620-4e4b8073d8cd" height="80%" width="80%" alt="Skaaresh Shooter"/>
