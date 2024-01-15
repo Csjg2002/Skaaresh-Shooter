@@ -10,10 +10,10 @@
 <img src="https://github.com/Csjg2002/Skaaresh-Shooter/assets/131481041/88ab1825-cbe5-4c6d-95aa-08fb32f1baac" height="80%" width="80%" alt="Skaaresh Shooter"/>
 <br />
 <br />
-<img src="https://github.com/Csjg2002/Aathma/assets/131481041/3af015c6-1c95-48c4-a620-4e4b8073d8cd" height="80%" width="80%" alt="Skaaresh Shooter"/>
+<img src="https://github.com/Csjg2002/Skaaresh-Shooter/assets/131481041/bfa952dd-c858-4eb2-a775-d4ca353b255f" height="80%" width="80%" alt="Skaaresh Shooter"/>
 <br />
 <br />
-<img src="https://github.com/Csjg2002/Aathma/assets/131481041/7a980911-4e00-40ca-b800-d2b591ce17c6" height="80%" width="80%" alt="Skaaresh Shooter"/>
+<img src="" height="80%" width="80%" alt="Skaaresh Shooter"/>
 <br />
 <br />
 </p>
