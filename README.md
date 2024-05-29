@@ -1,9 +1,12 @@
 <h1>Skaaresh Shooter</h1>
 
 <h2>Description</h2>
+<p>
 The year is 2359. Earth is a distant memory. Colonies were dispatched to the far reaches of the Home Zone, nearby stars with habitable planets. The first colonists set up small settlements to restart civilisation, with many systems flourishing. On the planet Skaaresh, however, those who attempted to lay down foundations found themselves battling against the ravaging climate of an inhospitable world and foul aliens that attempt to take back what was rightfully theirs.
-
+</p>
+<p>
 This game was created for a university assignment where I was given a brief and asked to create a game around it. I was the solo developer on this project. This was one of my first experiences with Unity, so it helped me gain an understanding of the basics of both Unity itself as well as the C# programming language.
+</p>
 
 <br />
 
