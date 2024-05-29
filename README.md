@@ -6,8 +6,6 @@ The year is 2359. Earth is a distant memory. Colonies were dispatched to the far
 </p>
 <p>
 This game was created for a university assignment where I was given a brief and asked to create a game around it. I was the solo developer on this project. This was one of my first experiences with Unity, so it helped me gain an understanding of the basics of both Unity itself as well as the C# programming language.
-</p>
-
 <br />
 
 <h2>In-game Clips:</h2>
