@@ -2,10 +2,10 @@
 
 <h2>Description</h2>
 <p>
-The year is 2359. Earth is a distant memory. Colonies were dispatched to the far reaches of the Home Zone, nearby stars with habitable planets. The first colonists set up small settlements to restart civilisation, with many systems flourishing. On the planet Skaaresh, however, those who attempted to lay down foundations found themselves battling against the ravaging climate of an inhospitable world and foul aliens that attempt to take back what was rightfully theirs.
+The year is 2359. Earth is a distant memory. Colonies were sent to the far reaches of the Home Zone, nearby stars with habitable planets. The first colonists established small settlements to restart civilisation, with many systems thriving. On the planet Skaaresh, however, those attempting to build foundations found themselves battling the harsh climate of an inhospitable world and alien creatures determined to reclaim what was once theirs.
 </p>
 <p>
-This game was developed for a university assignment where I was tasked with creating a game based on a given brief. As the sole developer, this project was my first foray into Unity, providing me with a foundational understanding of both the Unity engine and C# programming. It was a valuable learning experience that helped me build many core skills in game development.
+Developed for a university assignment based on a given brief, this game marked my first experience with C# and Unity. As the sole developer, I gained experience using both Visual Studio and the Unity engine, which has been invaluable in my game development journey.
 <br />
 
 <h2>In-game Clips:</h2>
